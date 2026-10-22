@@ -4,4 +4,22 @@
 ### Herramientas implementadas:
 
 ##### Try:
-<p> Try: </p>
+<p> kurikitaka </p>
+
+##### Except:
+<p> kurikitaka </p>
+
+##### Finally:
+<p> kurikitaka </p>
+
+##### Raise:
+<p> kurikitaka </p>
+
+##### Assert:
+<p> kurikitaka </p>
+
+##### Exc_Pers:
+<p> kurikitaka </p>
+
+##### Loggin:
+<p> kurikitaka </p>
